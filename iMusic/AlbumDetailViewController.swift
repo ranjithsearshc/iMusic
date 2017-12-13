@@ -74,7 +74,9 @@ class AlbumDetailViewController: UIViewController {
         let itunesButton = UIButton(type: .roundedRect)
         itunesButton.setTitle("Go to iTunes", for: .normal)
         itunesButton.addTarget(self, action: #selector(AlbumDetailViewController.goToItunes(sender:)), for: .touchUpInside)
-        stackView.addArrangedSubview(itunesButton)
+        itunesButton.frame = CGRect(x: 20, y: view.frame.height-60, width: view.frame.width-40, height: 40)
+        view.addSubview(itunesButton)
+       
     }
     
     func getStackView(title: String? = nil, text: String, axis: UILayoutConstraintAxis? = .horizontal, alignment: UIStackViewAlignment? = .fill) -> UIStackView {

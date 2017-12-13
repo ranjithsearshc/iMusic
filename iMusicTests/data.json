@@ -1,0 +1,289 @@
+{
+    "feed": {
+        "title": "Top Albums",
+        "id": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/10/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/us/itunes/"
+        },
+        "links": [
+                  {
+                  "self": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/10/explicit.json"
+                  },
+                  {
+                  "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&popId=82&app=music"
+                  }
+                  ],
+        "copyright": "Copyright © 2017 Apple Inc. All Rights Reserved.",
+        "country": "us",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2017-12-12T04:32:43.000-08:00",
+        "results": [
+                    {
+                    "artistName": "Big Sean & Metro Boomin",
+                    "id": "1320377239",
+                    "releaseDate": "2017-12-08",
+                    "name": "Double Or Nothing",
+                    "kind": "album",
+                    "copyright": "G.O.O.D Music/Def Jam Recordings/Boominati Worldwide/Republic Records;℗2017 UMG Recordings, Inc.",
+                    "artistId": "302533564",
+                    "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=302533564-670534462&app=music",
+                    "artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music118/v4/e9/8f/52/e98f5214-be0b-49f7-c280-cf09991f6d8d/UMG_cvrart_00602567132592_01_RGB72_3000x3000_17UM1IM54901.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/double-or-nothing/1320377239?app=music"
+                    },
+                    {
+                    "artistName": "Quality Control",
+                    "id": "1322802517",
+                    "releaseDate": "2017-12-08",
+                    "name": "Quality Control: Control the Streets, Vol. 1",
+                    "kind": "album",
+                    "copyright": "Quality Control Music / Motown Records / Capitol Records;℗2017 Quality Control Music, LLC and UMG Recordings, Inc.",
+                    "artistId": "1273783982",
+                    "artistUrl": "https://itunes.apple.com/us/artist/quality-control/1273783982?app=music",
+                    "artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9f/75/f1/9f75f158-33a3-fa9b-c4f1-ceaffdf1be8f/UMG_cvrart_00602567011712_01_RGB72_3000x3000_17UM1IM61531.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/quality-control-control-the-streets-vol-1/1322802517?app=music"
+                    },
+                    {
+                    "artistName": "Tee Grizzley & Lil Durk",
+                    "id": "1321574477",
+                    "releaseDate": "2017-12-08",
+                    "name": "Bloodas",
+                    "kind": "album",
+                    "copyright": "℗ 2017 Tee Grizzley under exclusive license to 300 Entertainment",
+                    "artistId": "1177271472",
+                    "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1177271472-541282483&app=music",
+                    "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/9c/2d/86/9c2d8679-5f22-3c27-1fc5-b2ee0880bc54/814908025016.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/bloodas/1321574477?app=music"
+                    },
+                    {
+                    "artistName": "Taylor Swift",
+                    "id": "1274999981",
+                    "releaseDate": "2017-11-10",
+                    "name": "Reputation",
+                    "kind": "album",
+                    "copyright": "℗ 2017 Big Machine Label Group, LLC",
+                    "artistId": "159260351",
+                    "artistUrl": "https://itunes.apple.com/us/artist/taylor-swift/159260351?app=music",
+                    "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/ae/8f/46/ae8f4677-0576-a1e4-e360-1563602c9bfb/UMG_cvrart_00843930033133_01_RGB72_3000x3000_17UM1IM24651.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "14",
+                               "name": "Pop",
+                               "url": "https://itunes.apple.com/us/genre/id14"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/reputation/1274999981?app=music"
+                    },
+                    {
+                    "artistName": "21 Savage, Offset & Metro Boomin",
+                    "id": "1303426031",
+                    "releaseDate": "2017-10-31",
+                    "name": "Without Warning",
+                    "kind": "album",
+                    "copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+                    "artistId": "894820464",
+                    "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-3973268-670534462&app=music",
+                    "artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music118/v4/81/5f/84/815f8497-514e-dcaa-8511-401c71f18c99/886446838526.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               },
+                               {
+                               "genreId": "1076",
+                               "name": "Rap",
+                               "url": "https://itunes.apple.com/us/genre/id1076"
+                               },
+                               {
+                               "genreId": "1069",
+                               "name": "Dirty South",
+                               "url": "https://itunes.apple.com/us/genre/id1069"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/without-warning/1303426031?app=music"
+                    },
+                    {
+                    "artistName": "Miguel",
+                    "id": "1305444975",
+                    "releaseDate": "2017-12-01",
+                    "name": "War & Leisure",
+                    "kind": "album",
+                    "copyright": "℗ 2017 ByStorm Entertainment and RCA Records, a division of Sony Music Entertainment",
+                    "artistId": "29254083",
+                    "artistUrl": "https://itunes.apple.com/us/artist/miguel/29254083?app=music",
+                    "artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/34/52/96/34529637-5e6d-bbd0-cb5d-a34ffec6b8e1/886446846248.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "15",
+                               "name": "R&B/Soul",
+                               "url": "https://itunes.apple.com/us/genre/id15"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/war-leisure/1305444975?app=music"
+                    },
+                    {
+                    "artistName": "Lil Baby",
+                    "id": "1318500960",
+                    "releaseDate": "2017-12-01",
+                    "name": "Too Hard",
+                    "kind": "album",
+                    "copyright": "℗ 2017 Quality Control Music",
+                    "artistId": "1276656483",
+                    "artistUrl": "https://itunes.apple.com/us/artist/lil-baby/1276656483?app=music",
+                    "artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/67/f8/1e/67f81ecc-2d6a-d955-2cac-b79e8dff16db/UMG_cvrart_00842812104855_01_RGB72_3000x3000_17UM1IM55478.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/too-hard/1318500960?app=music"
+                    },
+                    {
+                    "artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+                    "id": "1314239981",
+                    "releaseDate": "2017-11-17",
+                    "name": "Fed Baby’s",
+                    "kind": "album",
+                    "copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+                    "artistId": "991187319",
+                    "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+                    "artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/a5/3c/f6/a53cf6cb-0180-169b-2f3d-2ffb2a30851e/UMG_cvrart_00602557950458_01_RGB72_3000x3000_17UM1IM53278.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/fed-babys/1314239981?app=music"
+                    },
+                    {
+                    "artistName": "Post Malone",
+                    "id": "1170699981",
+                    "releaseDate": "2016-12-09",
+                    "name": "Stoney (Deluxe)",
+                    "kind": "album",
+                    "copyright": "℗ 2016 Republic Records, a division of UMG Recordings, Inc.",
+                    "artistId": "966309175",
+                    "artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+                    "artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music71/v4/b5/27/bb/b527bb4a-8213-7b28-39d5-51ed6ead5642/UMG_cvrart_00602557261707_01_RGB72_1800x1800_16UMGIM76040.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               },
+                               {
+                               "genreId": "1076",
+                               "name": "Rap",
+                               "url": "https://itunes.apple.com/us/genre/id1076"
+                               },
+                               {
+                               "genreId": "1077",
+                               "name": "Underground Rap",
+                               "url": "https://itunes.apple.com/us/genre/id1077"
+                               },
+                               {
+                               "genreId": "1068",
+                               "name": "Alternative Rap",
+                               "url": "https://itunes.apple.com/us/genre/id1068"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/stoney-deluxe/1170699981?app=music"
+                    },
+                    {
+                    "artistName": "PnB Rock",
+                    "id": "1300707470",
+                    "releaseDate": "2017-11-17",
+                    "name": "Catch These Vibes",
+                    "kind": "album",
+                    "copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+                    "artistId": "943088005",
+                    "artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+                    "artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music118/v4/5e/3b/4d/5e3b4dd0-4e09-42b0-8e87-4eecec1420ab/075679884213.jpg/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "18",
+                               "name": "Hip-Hop/Rap",
+                               "url": "https://itunes.apple.com/us/genre/id18"
+                               },
+                               {
+                               "genreId": "34",
+                               "name": "Music",
+                               "url": "https://itunes.apple.com/us/genre/id34"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/us/album/catch-these-vibes/1300707470?app=music"
+                    }
+                    ]
+    }
+}

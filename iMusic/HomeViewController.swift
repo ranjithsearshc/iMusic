@@ -24,10 +24,17 @@ class HomeViewController: UITableViewController {
         activityIndicator.startAnimating()
         activityIndicator.hidesWhenStopped = true
         activityIndicator.center = self.view.center
-        self.view.addSubview(activityIndicator)
+        let window = UIApplication.shared.keyWindow
+        let visibleView = UIView()
+        visibleView.frame = UIScreen.main.bounds
+        visibleView.backgroundColor = UIColor.white
+        window?.addSubview(visibleView)
+        window?.addSubview(activityIndicator)
         viewModel.fetchTopAlbums {
             self.tableView.reloadData()
+            visibleView.removeFromSuperview()
             activityIndicator.stopAnimating()
+            
         }
     }
 
@@ -76,6 +83,10 @@ extension HomeViewController {
         let detailVC = AlbumDetailViewController()
         detailVC.configure(album: album)
         self.navigationController?.pushViewController(detailVC, animated: true)
+    }
+    
+    override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 140
     }
 }
 
